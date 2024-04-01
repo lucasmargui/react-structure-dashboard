@@ -57,7 +57,7 @@ Alteração da resolução de módulo para node em tsconfig.json
 
     
   ### layout.tsx 
-  Este é um componente de layout que define a estrutura básica da página dashboard. Ele geralmente contém elementos que aparece em dashboard e subrotas de dashboard.
+  Este é um componente de layout que define a estrutura básica da página dashboard. Ele geralmente contém elementos que aparecem em dashboard e subrotas de dashboard.
    
 ## lib
   Diretório onde você pode armazenar funções utilitárias, hooks customizados, lógica de negócios compartilhada ou qualquer outra coisa que não se encaixe  diretamente nas páginas ou componentes da sua aplicação.
